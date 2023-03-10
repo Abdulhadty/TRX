@@ -1,0 +1,71 @@
+.logo{
+    width: 80px;
+}
+
+.container{
+    margin-top: -3rem;
+}
+
+.text{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+
+.wer{
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+}
+.content1{
+    width: 99%;
+    margin: 2px;
+}
+.rfc{
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+}
+.cfr{
+    padding: 5px;
+}
+.foter{
+    box-sizing: border-box;
+    padding: 25px;
+    margin-top: 50px;
+    height: 100px;
+    background-color: rgb(43, 92, 255);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.dfr{
+    height: 30px;
+    width: 60px;
+}
+.gfd{
+    position: relative;
+}
+
+
+.imgee{
+    height: 80vh;
+    
+}
+@media  ( max-width: 700px){
+    .imgee{
+        margin-bottom:200px ;
+}
+.swa{
+    position: absolute;
+    bottom: 160px;
+    
+    
+}
+#we{
+    margin-top: -23rem;
+}
+.container{
+   margin-top: -23rem;
+}
+.fre{
+    bottom: 170px;
+}
+}
